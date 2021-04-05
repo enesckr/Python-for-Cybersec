@@ -1,0 +1,6 @@
+---searching directories---Delete before run
+/robots.txt
+/iletisim/
+/dvma/
+/contact.php
+/webmail
